@@ -1,0 +1,2 @@
+C:\Users\infish_4567\source\repos\Snakes玩蛇\Debug\Snakes玩蛇.exe
+C:\Users\infish_4567\source\repos\Snakes玩蛇\Debug\Snakes玩蛇.pdb
