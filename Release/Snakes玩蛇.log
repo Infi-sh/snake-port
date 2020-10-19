@@ -1,0 +1,14 @@
+﻿  Gp.cpp
+C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(30,98): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(30,78): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(63,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(63,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(160,64): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(161,64): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(202,34): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Origin.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Snakes玩蛇.vcxproj -> C:\Users\infish_4567\source\repos\Snakes玩蛇\Release\Snakes玩蛇.exe

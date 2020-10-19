@@ -6,4 +6,6 @@ C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(63,18): warning C4244: “
 C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(160,64): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
 C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(161,64): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
 C:\Users\infish_4567\source\repos\Snakes玩蛇\Gp.cpp(202,34): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Origin.cpp
+  正在生成代码...
   Snakes玩蛇.vcxproj -> C:\Users\infish_4567\source\repos\Snakes玩蛇\Debug\Snakes玩蛇.exe
